@@ -64,7 +64,7 @@ Show total revenue in year 2020 in Chennai
 
 - Company is doing Sales in India and also might have done in New York and Paris for 1–2 time , so here we will remove it because right now company is doing business only in India so these data are not useful.
 
-## ETL(Extraction Transfoemation and Loading)
+## ⚓ETL(Extraction Transfoemation and Loading)
 Now we will pull data into Power BI and also do Data Cleaning known as ETL(Extract Transform and Load).
 Open tableau -> Databases -> MySQL database
 
