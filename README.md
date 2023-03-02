@@ -92,10 +92,10 @@ We are Extracting data from SQL , Transforming and Loading into tableau
 - The month of January had the most of sales, followed by the months of November and March.
 
 # Conclusions
-Sales were rapidly decreasing in 2020 compared to 2019 by around 57.7%.
-Highest revenue generated from Markets such as Delhi NCR, Mumbai, Ahmedabad, Bhopal, Nagpur, and so on.
-Highest quantities sold in the Market such as Delhi NCR, Mumbai, Nagpur, Kochi, Ahmedabad, and so on.
-Majority of the sales were takes place in the month of January followed by November and March.
+- Sales were rapidly decreasing in 2020 compared to 2019 by around 57.7%.
+- Highest revenue generated from Markets such as Delhi NCR, Mumbai, Ahmedabad, Bhopal, Nagpur, and so on.
+- Highest quantities sold in the Market such as Delhi NCR, Mumbai, Nagpur, Kochi, Ahmedabad, and so on.
+- Majority of the sales were takes place in the month of January followed by November and March.
 
 # Recommendation
 - Create a new sales plan for Lucknow, which is displaying the lowest revenue and a negative profit margin, and if feasible, do the same for Surat and Bhubaneshwar.
