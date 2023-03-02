@@ -82,6 +82,7 @@ We are Extracting data from SQL , Transforming and Loading into tableau
 `IF [CURRENCY] == 'USD' THEN [Sales Amount]*80 ELSE [Sales Amount] END`
 
 ## Dashboard
+![1](https://user-images.githubusercontent.com/60544331/222430662-e250b9ac-5fb2-4ba6-8b47-cf97c6a822c9.png)
 
 
 ## Insights
