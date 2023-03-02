@@ -1,4 +1,3 @@
-
 # Dashboard-on-Atliq-Hardware-Company
 ## Problem Statement
 AtliQ Hardware is a company which supplies computer hardware and peripherals to many of clients such as Excel stores, Surge stories across India. AtliQ Hardware head office is situated in Delhi, India and they have many regional office throughout the India.
@@ -82,3 +81,39 @@ We are Extracting data from SQL , Transforming and Loading into tableau
 - Create calculated field (small down arrow of Sales amount) type this code in it
 `IF [CURRENCY] == 'USD' THEN [Sales Amount]*80 ELSE [Sales Amount] END`
 
+## Dashboard
+
+
+## Insights
+- Sales dropped by about 57.7% in 2020 as compared to 2019.
+- Markets like Delhi NCR, Mumbai, Ahmedabad, Bhopal, Nagpur, and so on produce the most money.
+- Market locations with the highest sales volumes are Delhi NCR, Mumbai, Nagpur, Cochin, Ahmedabad, and so on.
+- The month of January had the most of sales, followed by the months of November and March.
+
+# Conclusions
+Sales were rapidly decreasing in 2020 compared to 2019 by around 57.7%.
+Highest revenue generated from Markets such as Delhi NCR, Mumbai, Ahmedabad, Bhopal, Nagpur, and so on.
+Highest quantities sold in the Market such as Delhi NCR, Mumbai, Nagpur, Kochi, Ahmedabad, and so on.
+Majority of the sales were takes place in the month of January followed by November and March.
+
+# Recommendation
+- Create a new sales plan for Lucknow, which is displaying the lowest revenue and a negative profit margin, and if feasible, do the same for Surat and Bhubaneshwar.
+- As Patna, Surat, and Kanpur have the lowest sales volume, strive to raise it there.
+- As Prod047 and Prod061 are the two most lucrative and popular items, launch marketing campaigns for them.
+- As they are your most profitable consumers, strive to provide unique perks to the Electronics and Excel retailers.
+- Plan a mid-year sale plan because they are demonstrating increased sales compared to previous months.
+## 👑Findings
+(i) Production wise top zone is South zone with Kerala topping it's high crop production.
+
+(ii) Production wise top crop type are Coconut, Sugarcane and Rice.
+Total Production hit peak in the year 2011 and 2013.
+
+(iii) Top crop categories which shows high production values are Whole Year(Annual growing plants),Kharif and Rabi crops. It clearly shows these crops heavily dependent on seasonal monssons.
+
+(iv) Top crop categories are Cereal, Pulses and Oilseeds.
+
+(v) Top producing state Kerela shows a abundance of whole year seasonal crops.
+
+(vi) Top producing state Uttar Pradesh shows abundance of Kharif, Rabi and Summar crops.
+
+(vii) Top Crop Categories are Cereal(27.5), Pulses(17.8) and oilseeds(14.7) and these crops contribute towards 60% of total crop production.
